@@ -2,4 +2,8 @@
 
 #Test rebase again
 
+<<<<<<< HEAD
 #Test stash local
+=======
+#Test stash server
+>>>>>>> origin/feature-xyz
