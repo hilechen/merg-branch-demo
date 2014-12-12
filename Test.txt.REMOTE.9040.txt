@@ -10,8 +10,4 @@
 
 # Test conflict server
 
-<<<<<<< HEAD
-# Test conflict 2 local
-=======
 # Test conflict local 2
->>>>>>> origin/feature-xyz
