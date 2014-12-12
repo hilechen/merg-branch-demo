@@ -7,3 +7,5 @@
 =======
 #Test stash server
 >>>>>>> origin/feature-xyz
+
+# Test conflict local
